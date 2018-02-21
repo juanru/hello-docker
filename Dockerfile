@@ -1,5 +1,5 @@
 FROM nginx
-ENV AUTHOR=Docker
+ENV AUTHOR=jru@itdesign.de
 
 WORKDIR /usr/share/nginx/html
 COPY Hello_docker.html /usr/share/nginx/html
