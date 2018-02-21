@@ -1,5 +1,5 @@
 # hello-docker
-Traditionan hello-world in Docker with Nginx
+Traditional hello-world in Docker with Nginx
 
 Use following command to get it up and running:
 
